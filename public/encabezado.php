@@ -6,7 +6,7 @@
     </button>
     <div class="collapse navbar-collapse" id="mainNavbar">
       <ul class="navbar-nav ms-auto align-items-lg-center">
-        <li class="nav-item"><a class="nav-link" href="../integrantes.html">Invitado1</a></li>
+        <li class="nav-item"><a class="nav-link" href="vista/karla.php">Invitado1</a></li>
 
       </ul>
     </div>
